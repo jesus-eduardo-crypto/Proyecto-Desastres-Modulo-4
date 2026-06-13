@@ -37,8 +37,6 @@ El problema de fondo no es la ocurrencia de los desastres —inevitable en un te
 
 > **¿Qué entidades federativas presentan mayor exposición al riesgo de desastres naturales —medida por número de declaratorias, población afectada y municipios involucrados— y deberían ser prioritarias para programas de prevención federal?**
 
-La pregunta es **accionable**: su respuesta produce un ranking de prioridad directamente utilizable por la SSPC para la asignación del Fondo de Prevención de Desastres Naturales (FOPREDEN). No es una pregunta descriptiva de tipo "¿cuántos registros hay?" sino una pregunta de priorización con consecuencias presupuestales reales.
-
 ### Sub-preguntas analíticas
 
 | # | Sub-pregunta | Técnica SQL | Visualización |
